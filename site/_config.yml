@@ -1,12 +1,14 @@
 title: Arnav's Blog
 email: 2005arnavmehta2005@gmail.com
-url: "https://Arnav_Blog.github.io"
+base_url: "Arnav_Mehta"
+url: ""
 plugins:
   - jekyll-bookshop
   # - cloudcannon-jekyll-bookshop
   - jekyll-sitemap
   - jekyll/tagging
   - jekyll-pagebreak
+  - jekyll-remote-theme
 
 # Multiple bookshops can be used on one website,
 # or different production / staging locations.
