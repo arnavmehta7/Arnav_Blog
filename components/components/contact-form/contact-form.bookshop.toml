@@ -1,0 +1,13 @@
+[component]
+structures = [ "content_blocks" ]
+label = "Contact Form"
+description = "Tell Me About you Here!"
+icon = "wysiwyg"
+tags = ["Text"]
+
+[props]
+form_title = "Get in touch"
+form_description = "Contact Me for more Info!"
+form_success_page = "/"
+form_submission_email = "2005arnavmehta2005@gmail.com" # Add your email for contact form
+form_button_text = "Send now"

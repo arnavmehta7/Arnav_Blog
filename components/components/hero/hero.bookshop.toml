@@ -1,0 +1,16 @@
+[component]
+structures = [ "content_blocks" ]
+label = "Hero"
+description = "Page hero with the heading, description, buttons, and an image"
+icon = "wysiwyg"
+tags = ["Structure", "Text", "Links"]
+
+[props]
+title = "Hi there, I am Arnav Mehta"
+description_html = "Programmer,Data Scientist,Reader</strong> and <strong>AI Lover</strong> from Punjab,India.Developed Strong Craftsmanship and Always Ready to Learn and Develop things!"
+image = "/images/profile.jpg"
+image_alt = "Arnav Mehta's picture"
+cta_button = "Get in touch"
+cta_button_link = "#contact"
+works_button = "See my works"
+works_button_link = "#projects"

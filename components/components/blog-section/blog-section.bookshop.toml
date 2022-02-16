@@ -1,0 +1,12 @@
+[component]
+structures = [ "content_blocks" ]
+label = "Blog"
+description = "Blog Section with heading, a image, a description and a link"
+icon = "wysiwyg"
+tags = ["Content"]
+
+[props]
+title = "Recent Works"
+description_html = "Due to high interest in Psychology,Productivity,Books and Coding. I keep guiding people through these Post on Topics like Productivity,Psychology,Coding and Healthy Life"
+link_url = "/blog"
+show_posts = true
