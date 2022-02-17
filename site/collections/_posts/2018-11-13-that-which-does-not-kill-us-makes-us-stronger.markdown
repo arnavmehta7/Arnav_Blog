@@ -1,26 +1,49 @@
 ---
 date: 2021-11-13 12:01:35
-title: That which does not kill us makes us stronger
+title: The Addiction most of us have but chose to ignore...
 description: >-
-  Bring to the table win-win survival strategies to ensure proactive domination.
-  At the end of the day, going forward.
+  Addictions reduce to capability to focus deeply, have solitude perform deep work and increases depression
 tags:
-  - travel
-  - lifestyle
-image: /images/post-1.jpg
+  - Psychology
+  - Deep Work
+  - Healthy Life
+image: https://miro.medium.com/max/1400/0*SdgLbk-yKnk4dPks
 ---
-In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, reman voluptatem amico percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit. Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc means adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in nis.
+## Why is Music a Drug?
 
-![Woman with child](/images/image-example-1.jpg){: width="1200" height="900"}
+People are constantly taking doses of music several times a day, when walking, does chores, while working, studying etc.  
+Due to this their brains have started to become adapted to it. In the  absence of Music their focus, happiness, capibilities all drops.  All music addicts face one thing  **_Earworms_**  because their brain craves so much for it all the time that it starts ringing songs on its Own. Leaving Music and Controlling it takes a lot of work and practice.  
+Addicts who are Deprived even for 2 days , feels the world becoming HELL
+<!-- ![Woman with child](/images/image-example-1.jpg){: width="1200" height="900"} -->
+## If Music is a Drug, Then why we don’t we know?
 
-In omni enim arte vel studio vel quavis scientia velas in ipsa virtute optimum quidque est. Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique pertectam atque absolutam. Tecum optime, deindestum etiam cum mediocri amico. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitned in fructum habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sintero conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles rarissimum servari tinere.
+Due to Excessive ease availability of Music and a quick tendency to solve BOREDOM we keep repeating it , Just like scrolling through Posts on Social Media. It takes a lot of time to realise if we have been addicted, because no one knows that its addiction until unless we have been addicted.
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time\!
+> We  do not Notice what the Drug, Social Media or even Music is doing to us Until-Unless we get to know how far behind we have come.
 
-Ego quoque, inquit, didicerim libentius si quid attuleris, quam te reprehenderim. I am quod insipientes alios ita esse, ut nullo modo ad sapientiam possent pervenire, alios, qui possent, si id egissent, sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est. Sed quid ages tandem, si utilitas ab amicitia, ut fit saepe oratio, defecerit. Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit. Quae quidem sapientes sequuntur duce natura tamquam videntes. Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu sit, id nihil ad nos pertinere omnino. Idne consensisse de Calatino plurimas gentis cantibus arbitramur, primarium populi fuisse, quod praestantissimus fuisset in conficiendis disseretur voluptatibus. Utram tandem linguam nescio. Quod dicit Epicurus voluptate terra perfectio.
+## Magical Powers of MUSIC
 
-![Beach](/images/image-example-2.jpg){: width="1200" height="900"}
+-   Controls Happiness, Moods can lift away Depression.
+-   Tells Stories
+-   Destroys Boredom
+-   Morally,Culturally and Socially influence us
+-   Determines a large part of One’s Psyche
 
-Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim praeter tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed ista animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur disputari sine potissimum.
+## Symptoms of Music Addictness
 
-Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies saepius, qui semel fuit. Ampulla enim sit necne sit, quis non iure optimo irrideatur, si laboret? Ego vero volo in virtute vim esse quam maximam; Serpere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis. Archytam? Qua ex cognitione facilior facta est investiga.
+-   Lot of Earworms 👂 , Jukebox.
+-   At slightest hint of boredom or Free Time, Music is Support
+-   Listening to Music more during Bad Days.
+-   Constantly singing/rehearsing verces.
+-   Music dose is taken multiple times a day.
+
+## Problems due to Musical Addiction
+
+-   It becomes hard for such people to sit silently with their own thoughts or do the work that provides value without Music.  This leads to Solitude Deprivation.
+-   The Ability to organise and think is reduced, it feels traumatising to sit and think on something without Music
+-   Whenever in Public or While Walking constantly urges for Music instead of noticing the surroundings.
+-   This all leads to Poor Work Habits, One cannot Perform DEEP WORK to the fullest extent if he/she is addicted to Music.
+-   Affected People have to fight with Earworms throughout the day and even at night, which can lead to sleep deprivation.
+-   The Time spent for knowing and talking to oneself is Taken Away.
+
+**What Can We Do Then? →  _control your music dose and reduce it ,a hour a day is more than enough._**

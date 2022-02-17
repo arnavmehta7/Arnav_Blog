@@ -94,3 +94,9 @@ defaults:
 tag_page_dir: tag
 tag_page_layout: tag_page
 tag_permalink_style: /:title
+
+
+# # Extra thing added 
+# # Conversion markdown: redcarpet 
+# highlighter: pygments 
+# redcarpet: extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
