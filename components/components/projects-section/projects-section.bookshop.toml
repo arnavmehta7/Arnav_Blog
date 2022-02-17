@@ -6,7 +6,7 @@ icon = "wysiwyg"
 tags = ["Content"]
 
 [props]
-title = "Latest Works"
-description_html = "I show only my best works built completely with craftsmanship,brain   and creativity"
+title = "Achievements + Projects"
+description_html = "Following are my Projects and Various Acheivements"
 link_url = "/projects"
 show_projects = true

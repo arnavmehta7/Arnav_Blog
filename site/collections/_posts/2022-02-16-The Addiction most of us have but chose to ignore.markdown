@@ -1,5 +1,5 @@
 ---
-date: 2021-11-13 12:01:35
+date: 2022-02-16 12:01:35
 title: The Addiction most of us have but chose to ignore...
 description: >-
   Addictions reduce to capability to focus deeply, have solitude perform deep work and increases depression
@@ -7,7 +7,8 @@ tags:
   - Psychology
   - Deep Work
   - Healthy Life
-image: https://miro.medium.com/max/1400/0*SdgLbk-yKnk4dPks
+# image: '_posts/Images/music.jpg'
+image: '/collections/post_images/music.jpg'
 ---
 ## Why is Music a Drug?
 

@@ -1,7 +1,7 @@
 ---
 title:  Making Animations with Python
-date:   2021-02-31 15:01:35 +0300
-image:  'https://miro.medium.com/max/689/1*ICPW7ZxYOzlOoUr6HHcM_w.gif'
+date:   2022-02-16 15:01:35 +0300
+image:  '/collections/post_images/animation.gif'
 tags:   [Coding,animations]
 ---
 Hello !, We’ll create this simple animation in not more than 30 lines of code.

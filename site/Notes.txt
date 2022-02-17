@@ -1,1 +1,9 @@
 Form is done by formspree by prozroyalarnav
+
+the acheivements and projects section is guided by collections/_pages/projects
+'''
+find . -type f -exec grep -l "Latest" {} \;
+./site/collections/_pages/index.html
+./site/_site/index.html
+./site/_site/_cloudcannon/bookshop-site-data.json
+'''
