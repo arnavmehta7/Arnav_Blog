@@ -1,8 +1,8 @@
 ---
 date: 2021-01-11 07:40:35 +0300
-title: Brain
-subtitle: Photography
-image: '/images/project-4.jpg'
+title: Intel® AI For Youth Program 
+subtitle: Internship
+image: '/collections/projects_images/AI4youth.jpg'
 ---
 
 In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem.

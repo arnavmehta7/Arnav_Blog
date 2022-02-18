@@ -1,0 +1,7 @@
+I";<p>My First Social impact project was AI-Healthcare which is explained in the following image
+<img src="/collections/projects_images/healthcare_overview.jpg" alt="Project" width="1200" />
+My Project was a web-based application that takes chest X-Ray images as input and helps to detect if there is any disease. In the background when the image is uploaded The
+AI-based 5 layered Neural Network Model trained on thousands of
+samples identifies the key features in the image to detect the disease, It
+can identify multiple diseases effectively with an accuracy of 90%.</p>
+:ET

@@ -2,8 +2,12 @@ Form is done by formspree by prozroyalarnav
 
 the acheivements and projects section is guided by collections/_pages/projects
 '''
-find . -type f -exec grep -l "Latest" {} \;
+find . -type f -exec grep -l "See" {} \;
 ./site/collections/_pages/index.html
 ./site/_site/index.html
 ./site/_site/_cloudcannon/bookshop-site-data.json
 '''
+
+####!!! In the projects section the dates have to be written in an reversed order by which i want to list my acheivements
+
+TO Do : Projects and Acheivements
