@@ -26,5 +26,19 @@
   <link href="https://unpkg.com/ionicons@4.5.0/dist/css/ionicons.min.css" rel="stylesheet">
 
   <link rel="stylesheet" href="/assets/main.css">
+  <meta name="arnav" content="Arnav Mehta Blog Arnav Mehta, Mehta , Ludhiana, Punjab">
   <meta name="google-site-verification" content="AdpnI49sm3yy9U3aQg_ZAM70NxL6dvxj89NinkKc0ac" />
+  {%if page.description %}
+
+  <meta name="description" content="{{ page.description | escape }}">
+  {%endif %}
+
+  {%if page.title %}
+
+  <meta name="description" content="{{ page.title | escape }}">
+  {%endif %}
+
+  {%if page.tags %}
+  <meta name="keywords" content="{{ page.tags | join: ', ' | escape }}"/>
+  {%endif %}
 </head>
